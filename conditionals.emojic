@@ -11,13 +11,26 @@
 
   💭 Assign "true" to a variable
   👍 ➡️ isReady
-  💭 Check if the variable is true
+  💭 if-else statement:
   ↪️ isReady 🍇
     😀 🔤Let's goooooooo!🔤❗️
   🍉
   🙅 🍇
     😀 🔤Lemme take another look at this...🔤❗️
   🍉
+  💭 prints out "Let's goooooooo!"
+
+
+  💭 Assign "false" to a variable
+  👎 ➡️ isTired
+  ↪️ isTired 🍇
+    😀 🔤Time for 🛏️🔤❗️
+  🍉
+  🙅 🍇
+    😀 🔤Work time🔤❗️
+  🍉
+  💭 prints out "Work time"
+
 🍉
 
 💭🔜
@@ -26,4 +39,9 @@ Conditionals:
     - evaluate condition to 👍 (true) or 👎 (false)
     - follow by a block of code using 🍇 and 🍉 if true
 
+The 🙅 Statement:
+    - 🙅 doesn’t accept a condition
+    - is added after a ↪️ statement.
+    - 🙅's block of code executes if the previous condition(s) are all 👎
+    - think of 🙅 as an else statement, its code block runs when all else is 👎
 🔚
