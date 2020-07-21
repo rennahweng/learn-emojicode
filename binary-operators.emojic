@@ -1,0 +1,38 @@
+🏁 🍇
+    💭 🙌 with Strings:
+
+    💭 if "coke" == "pepsi"
+    ↪️ 🔤coke🔤 🙌 🔤pepsi🔤 🍇
+        😀 🔤They're the same thing🔤❗️
+    🍉
+    🙅 🍇
+        😀 🔤They're NOT the same🔤❗️
+    🍉
+
+    💭 🙌 with integers:
+    1111 ➡️ enteredPIN
+    1021 ➡️ correctPIN
+    ↪️ enteredPIN 🙌 correctPIN 🍇
+        😀 🔤Access granted🔤❗️
+    🍉
+    🙅 🍇
+        😀 🔤Access denied🔤❗️
+    🍉
+    
+🍉
+
+💭🔜
+The 🙌 Operator:
+    - check if left side and right side have the same values
+    - entire line is an expression
+    - expression evaluates back to a 👍 or 👎 value
+
+Examples:
+    100 🙌 100      💭 Evaluates to: 👍
+    100 🙌 101      💭 Evaluates to: 👎
+    32.1 🙌 32      💭 Evaluates to: 👎
+    4.2 🙌 4.2      💭 Evaluates to: 👍
+    🔤A🔤 🙌 🔤A🔤 💭 Evaluates to: 👍
+    🔤A🔤 🙌 🔤B🔤 💭 Evaluates to: 👎
+    🔤A🔤 🙌 🔤a🔤 💭 Evaluates to: 👎
+🔚💭
