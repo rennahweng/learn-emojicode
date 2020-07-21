@@ -1,0 +1,48 @@
+🏁 🍇
+    💭 if-elif-else:
+    🔤yellow🔤 ➡️🖍🆕 trafficLight
+    
+    💭 if (trafficLight == "green")
+    ↪️ trafficLight 🙌 🔤green🔤 🍇
+    😀 🔤Go!!🔤❗️
+    🍉
+    
+    💭 else if (trafficLight == "yellow")
+    🙅↪️ trafficLight 🙌 🔤yellow🔤 🍇
+    😀 🔤Slow down...🔤❗️
+    🍉
+    
+    💭 else if (trafficLight == "red")
+    🙅↪️ trafficLight 🙌 🔤red🔤 🍇
+    😀 🔤Stop!🔤❗️
+    🍉
+
+    💭 else 
+    🙅 🍇
+    😀 🔤This light's broken.🔤❗️
+    🍉
+
+    💭 Result: Slow down...
+
+
+    💭 Compares with integer - no need data type around numbers
+    80 ➡️ waterTemp
+    ↪️ waterTemp ▶️🙌 100 🍇
+        😀 🔤Steam🔤❗️
+    🍉
+    🙅↪️ waterTemp ▶️ 0 🍇
+        😀 🔤Liquid🔤❗️
+    🍉
+    🙅↪️ waterTemp ▶️ -273 🍇
+        😀 🔤Ice🔤❗️
+    🍉
+    🙅 🍇
+        😀🔤Temperature not valid🔤❗️
+    🍉
+    
+🍉
+
+
+💭🔜
+
+🔚💭
