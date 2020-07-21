@@ -19,20 +19,40 @@
         😀 🔤Access denied🔤❗️
     🍉
     
+
+    💭 Comparison Operators:
+    120 ➡️ hurlyWhirlyMinHeight
+    214 ➡️ tinyHouseMaxHeight
+    160 ➡️ myHeight
+
+    ↪ myHeight ◀️ hurlyWhirlyMinHeight 🍇
+        😀 🔤You must be taller than 120cm to ride🔤❗️
+    🍉
+    ↪ myHeight ▶️🙌 tinyHouseMaxHeight 🍇
+        😀 🔤You must be 214cm or shorter to enter🔤❗️
+    🍉
 🍉
 
+
 💭🔜
-The 🙌 Operator:
+The 🙌 "==" Operator:
     - check if left side and right side have the same values
     - entire line is an expression
     - expression evaluates back to a 👍 or 👎 value
-
 Examples:
-    100 🙌 100      💭 Evaluates to: 👍
     100 🙌 101      💭 Evaluates to: 👎
     32.1 🙌 32      💭 Evaluates to: 👎
-    4.2 🙌 4.2      💭 Evaluates to: 👍
     🔤A🔤 🙌 🔤A🔤 💭 Evaluates to: 👍
-    🔤A🔤 🙌 🔤B🔤 💭 Evaluates to: 👎
     🔤A🔤 🙌 🔤a🔤 💭 Evaluates to: 👎
+
+Comparison Operators:
+    ◀️       Less than <
+    ▶️       Greater than >
+    ◀️🙌     Less than or equal to <=
+    ▶️🙌     Greater than or equal to >=
+Examples:
+    2 ◀️ 5         💭👍
+    4 ◀️ 4         💭 👎
+    10.6 ◀️🙌 10.6 💭 👍
+    3.14 ▶️🙌 4    💭 👎
 🔚💭
