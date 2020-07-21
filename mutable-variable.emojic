@@ -1,26 +1,52 @@
 🏁 🍇
     8 ➡️ 🖍🆕 quarters
     
-    0 ➡️ 🖍🆕 level    
+    0 ➡️ 🖍🆕 level
     level ⬅️➕ 2
     level ⬅️➖ 1
     😀🔤🧲level🧲🔤❗️
+
+    💭 Different data types:
+    💭 Integer:
+    🖍🆕 int 🔢
+    628 ➡️ int
+    😀🔤🧲int🧲🔤❗️
+
+    💭 Decimal:
+    🖍🆕 dec 💯
+    6.28 ➡️ dec
+    😀🔤🧲dec🧲🔤❗️
+
+    💭 string:
+    🖍🆕 str 🔤
+    🔤I'm a string🔤 ➡️ str
+    😀🔤🧲str🧲🔤❗️
+
+    💭 boolean:
+    🖍🆕 bool 🔤
+    👍 ➡️ bool
+    👎 ➡️ bool
+    😀🔤🧲bool🧲🔤❗️
 🍉
 
 💭🔜
 Mutable variables - mutable
-
-Two ways:
   1. declare and assign the variable to a value in one step
     - 5300 ➡️ 🖍🆕 money
-    - declaring a mutable variable named money and assigning it a value of 5300
+        - declaring a mutable variable named money and assigning it a value of 5300
   2. explicitly declare the variable and initialize
     - 🖍🆕 money 🔡
-      - 🖍🆕 = declaring
-      - money = variable name
-      - 🔡 = variable type
+        - 🖍🆕 = declaring
+        - money = variable name
+        - 🔡 = variable type
 
-  Operator Assignment - a short-hand method for modifying the value of mutable variables.
+Data types:
+    🔢: integer numbers
+    💯: decimal numbers
+    🔤: text strings
+    👌: truth values (👍/👎)
+
+Operator Assignment - a short-hand method for modifying the value of mutable variables.
     ⬅️➕: addition assignment
     ⬅️➖: subtraction assignment
     ⬅️✖️: multiplication assignment
