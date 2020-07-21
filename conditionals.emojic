@@ -1,0 +1,29 @@
+🏁 🍇
+  💭 if true
+  ↪️👍🍇
+    😀🔤I'm 👑 of the world!🔤❗️
+  🍉
+
+  💭 if false, do nothing
+  ↪️ 👎 🍇
+    😀 🔤The condition is 👍🔤❗️
+  🍉
+
+  💭 Assign "true" to a variable
+  👍 ➡️ isReady
+  💭 Check if the variable is true
+  ↪️ isReady 🍇
+    😀 🔤Let's goooooooo!🔤❗️
+  🍉
+  🙅 🍇
+    😀 🔤Lemme take another look at this...🔤❗️
+  🍉
+🍉
+
+💭🔜
+Conditionals:
+    - ↪️ checks a condition
+    - evaluate condition to 👍 (true) or 👎 (false)
+    - follow by a block of code using 🍇 and 🍉 if true
+
+🔚
