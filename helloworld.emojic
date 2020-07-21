@@ -1,0 +1,23 @@
+🏁 🍇
+  😀 🔤Hello, world!🔤❗️
+🍉
+
+💭🔜
+
+Almost all the code in an Emojicode program will live inside a 🏁 block. 
+A block is a collection of code. 
+The 🏁 block indicates all the code that should run when the file is executed.
+
+Within our larger program, we can indicate one or more blocks of code with 🍇 🍉 code blocks:
+🍇 to indicate the start of the code block
+🍉 to indicate the end of the code block
+
+To print in Emojicode, we use the 😀 ❗️ method
+
+🔤 - serves as a double quotation for starting and ending a string
+    Ex: 🔤String🔤
+
+single line comment: 💭
+multi line comment: what I'm using now...
+
+🔚💭
