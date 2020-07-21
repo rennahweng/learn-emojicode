@@ -1,21 +1,29 @@
 🏁 🍇
-  8 ➡️ 🖍🆕 quarters
-  
+    8 ➡️ 🖍🆕 quarters
+    
+    0 ➡️ 🖍🆕 level    
+    level ⬅️➕ 2
+    level ⬅️➖ 1
+    😀🔤🧲level🧲🔤❗️
 🍉
 
 💭🔜
-
 Mutable variables - mutable
 
 Two ways:
   1. declare and assign the variable to a value in one step
     - 5300 ➡️ 🖍🆕 money
     - declaring a mutable variable named money and assigning it a value of 5300
-    
   2. explicitly declare the variable and initialize
     - 🖍🆕 money 🔡
       - 🖍🆕 = declaring
       - money = variable name
       - 🔡 = variable type
 
+  Operator Assignment - a short-hand method for modifying the value of mutable variables.
+    ⬅️➕: addition assignment
+    ⬅️➖: subtraction assignment
+    ⬅️✖️: multiplication assignment
+    ⬅️➗: division assignment
+    ⬅️🚮: modulo assignment
 🔚💭
