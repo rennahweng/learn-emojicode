@@ -1,0 +1,13 @@
+🏁 🍇
+  2020 ➡️ year
+🍉
+
+💭🔜
+  Example: 3.14 ➡️ pi
+    - 3.14 = the value of the variable.
+    - ➡️ = the assignment operator.
+    - pi = the name of the variable.
+
+  "pi" is a constant variable - immutable. 
+  Compiler error if you try to reassign a constant variable
+🔚💭
