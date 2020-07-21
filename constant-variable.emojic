@@ -1,5 +1,6 @@
 🏁 🍇
   2020 ➡️ year
+  😀🔤The current year is 🧲year🧲!🔤❗️
 🍉
 
 💭🔜
@@ -10,4 +11,10 @@
 
   "pi" is a constant variable - immutable. 
   Compiler error if you try to reassign a constant variable
+🔚💭
+
+💭🔜
+  String Interpolation
+    - used to construct a string from a mix of constants, variables, and others by including their values inside a string literal.
+    - Write variable name inside two 🧲s to print its value.
 🔚💭
