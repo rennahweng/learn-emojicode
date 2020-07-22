@@ -1,0 +1,27 @@
+🏁 🍇
+  
+  💭 AND:
+  👍 ➡️ learningEmojicode
+  👍 ➡️ isDedicated
+  ↪️ learningEmojicode 🤝 isDedicated 🍇
+    😀 🔤Becoming an emojicode 💻 master!🔤❗️
+  🍉
+  🙅 🍇
+    😀 🔤Becoming a pure 💻 master...🔤❗️
+  🍉
+
+🍉
+
+💭🔜
+    🤝 AND operator 
+        - checks if two expressions are 👍 and returns a single 👌 value. 
+        - If the first expression is 👍 AND the second expression is 👍, then it returns 👍 
+        - otherwise, it returns 👎.
+        
+            AND truth table:
+            👍 🤝 👍	👍
+            👍 🤝 👎	👎
+            👍 🤝 👎	👎
+            👎 🤝 👎	👎
+
+🔚💭
