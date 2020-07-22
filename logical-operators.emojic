@@ -10,6 +10,16 @@
     😀 🔤Becoming a pure 💻 master...🔤❗️
   🍉
 
+  💭 OR:
+  👍 ➡️🖍 hasUmbrella 
+  👎 ➡️🖍 hasRaincoat
+  ↪️ hasUmbrella 👐 hasRaincoat 🍇
+    😀 🔤One protection is enough for walking in the rain!🔤❗️
+  🍉
+  🙅 🍇
+    😀 🔤Hmmm...we don't have any. Let's stay inside🔤❗️
+  🍉
+
 🍉
 
 💭🔜
@@ -23,5 +33,10 @@
             👍 🤝 👎	👎
             👍 🤝 👎	👎
             👎 🤝 👎	👎
-
+    
+    👐 OR operator
+            👍 👐 👍	👍
+            👍 👐 👎	👍
+            👍 👐 👎	👍
+            👎 👐 👎	👎
 🔚💭
